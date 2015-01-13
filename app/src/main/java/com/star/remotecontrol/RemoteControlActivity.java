@@ -1,4 +1,4 @@
-package com.star.com.remotecontrol;
+package com.star.remotecontrol;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
